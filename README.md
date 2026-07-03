@@ -4,4 +4,4 @@
 > <br>
 > Student ID: **13992028**
 
-> Link to Repo (PARTS A and B): https://github.com/Mike-Jagger/intro-to-ai-lab-1.git
+> Link to Repo (PARTS A and B): [https://github.com/Mike-Jagger/intro-to-ai-lab-1.git](https://github.com/Mike-Jagger/lab-2-predictive-analytics.git)
